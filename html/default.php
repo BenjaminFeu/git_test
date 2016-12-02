@@ -8,7 +8,7 @@
 	</head>
 
 	<body>
-		Ceci est la page par dÃfaut. 	
+		Ceci est la page par dÃ©faut. 	
 
 
 	</body>
